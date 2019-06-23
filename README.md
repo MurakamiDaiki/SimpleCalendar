@@ -1,8 +1,7 @@
 # SimpleCalendar
 
 Overview
-
-This is my simple calendar for android written by Kotlin. The purpose of developing this app is to study Kotlin programing, so it is very simple and has only minimum requirement functions.
+  This is my simple calendar for android written by Kotlin. The purpose of developing this app is to study Kotlin programing, so it is very simple and has only minimum requirement functions.
 
 Main Menue
 
