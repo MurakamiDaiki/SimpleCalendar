@@ -10,7 +10,7 @@ The day you regesterd schedule on has green point and when you tap this day, sch
 
 Edit Menue  
 In this menue, you can add or edit schedule, which has information as "Title", "Place", "Start Time", "End Time" and "Detail". When you tap the icon next to the "place", you can sarch keyword written on the "place" label using map app(like "Google map") installed in your terminal.  
-Tapping "save" button, you can save the schedule and green point appears on the day of main menue.Deletion of schedule also can be done on this menu, choosing button lower-light side. To store these data, I use "Realm(https://realm.io/jp/)".  
+Tapping "save"("Update") button, you can save the schedule and green point appears on the day of main menue.Deletion of schedule also can be done on this menu, choosing button lower-light side. To store these data, I use "Realm(https://realm.io/jp/)".  
 ![Screenshot2](https://github.com/MurakamiDaiki/Picture-Deposit/blob/master/Screenshot2.png)  
 Reference  
 ・https://www.sbcr.jp/product/4815601140/ はじめてのAndroidプログラミング 第4版 (金田 浩明)   
