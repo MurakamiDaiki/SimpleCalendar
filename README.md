@@ -12,6 +12,6 @@ In this menue, you can add or edit schedule, which has information as "Title", "
 Tapping "save" button, you can save the schedule and green point appears on the day of main menue.Deletion of schedule also can be done on this menu, choosing button lower-light side. To store these data, I use "Realm(https://realm.io/jp/)".  
 
 Reference  
-・はじめてのAndroidプログラミング 第4版 (金田 浩明) https://www.sbcr.jp/product/4815601140/  
+・https://www.sbcr.jp/product/4815601140/ はじめてのAndroidプログラミング 第4版 (金田 浩明)   
 ・https://github.com/SundeepK/CompactCalendarView  
 ・https://realm.io/jp/
